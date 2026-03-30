@@ -137,7 +137,7 @@ graph LR;
 <div align="center">
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/fsoc-ghost-0x)
-[<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />](https://app.hackthebox.com/profile/1979983)
+[<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />](https://app.hackthebox.com/users/1979983)
 [<img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme.com/p/YOUR_USER)
 
 </div>
