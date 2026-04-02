@@ -206,7 +206,7 @@ graph LR;
 
 <!-- Visual Matrix: Performance Metrics -->
 <samp>[ SECTOR: OPERATIONAL_METRICS ]</samp><br>
-<img src="https://github.com/user-attachments/assets/e1af5cd7-ec77-436c-b20b-4470dbf1f5c3" width="800" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/e1af5cd7-ec77-436c-b20b-4470dbf1f5c3" width="550" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br>
 
