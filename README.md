@@ -63,7 +63,8 @@
 - [▌ 0x03_TECHNICAL_CAPABILITIES_MATRIX](#-0x03_technical_capabilities_matrix)
 - [▌ 0x04_OFFENSIVE_ARSENAL_STACK](#-0x04_offensive_arsenal_stack)
 - [▌ 0x05_OPERATIONAL_FOOTPRINT](#-0x05_operational_footprint)
-- [▌ 0x05.1_THE_NEXUS: CUSTOM_AI_ORCHESTRATION](#-0x051_the_nexus-custom_ai_orchestration) 
+- [▌ 0x05.1_THE_NEXUS: CUSTOM_AI_ORCHESTRATION](#-0x051_the_nexus-custom_ai_orchestration)
+- [▌ 0x05.2_PROYECTS_FSOCIETY_CURRENTS](#-0x052_projects-current_operations)
 - [▌ 0x06_LEGAL_DISCLAIMER](#-0x06_legal_disclaimer)
 
 </details>
