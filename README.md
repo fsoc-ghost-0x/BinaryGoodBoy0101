@@ -313,7 +313,7 @@ graph LR;
       </samp>
     </td>
     <td width="350" align="center" valign="center">
-      <img src="Fsociety_Operations_Logs.png" width="350" height="auto" alt="Operations Logs Logo" style="border: 2px solid #222; border-radius: 10px;"/>
+      <img src="https://github.com/user-attachments/assets/18db894f-f013-4085-bf23-28ac5fa092a5" width="350" height="auto" alt="Operations Logs Logo" style="border: 2px solid #222; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
