@@ -284,7 +284,7 @@ graph LR;
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
     <td width="350" align="center" valign="center">
-      <img src="https://github.com/user-attachments/assets/813667ec-e3b7-400b-9700-47de1588e50c" width="350" height="auto" alt="Alderson Core Logo" style="border: 2px solid #222; border-radius: 10px;"/>
+      <img src="https://github.com/user-attachments/assets/a8ad3c2e-0144-453d-962e-d5bc7c2fd2f3" width="350" height="auto" alt="Alderson Core Logo" style="border: 2px solid #222; border-radius: 10px;"/>
     </td>
     <td align="left" valign="center">
       <h3><samp><font color="#ff4500">Fsociety00_alderson_core.dat</font></samp></h3>
