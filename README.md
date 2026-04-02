@@ -26,10 +26,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/636b5181-3142-4e71-91a6-8e7b5b35819d" width="380" alt="HTB Platinum" style="border-radius: 10px; border: 1px solid #333;"/>
+      <img src="https://github.com/user-attachments/assets/636b5181-3142-4e71-91a6-8e7b5b35819d" width="350" alt="HTB Platinum" style="border-radius: 10px; border: 1px solid #333;"/>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/1db54212-6e4c-4a9b-b4db-c2a5540fdd37" width="380" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
+      <img src="https://github.com/user-attachments/assets/1db54212-6e4c-4a9b-b4db-c2a5540fdd37" width="350" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
     </td>
   </tr>
   <tr>
@@ -50,8 +50,9 @@
 
 </div>
 
----
+<br>
 
+## <samp>▌ <u>0x00_TABLE_CONTENT</u></samp>
 <details>
 <summary><code>Decrypting Full Intelligence Dossier...</code></summary>
 
