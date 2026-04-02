@@ -19,15 +19,26 @@
 
 **<samp>Lead Offensive Developer | Red Team Operator | Digital Forensic Architect</samp>**
 
-<div align="center">
+<br>
 
 <samp>Identity: <font color="#ff4500">C0deGhost</font> | Status: <font color="#00ff00">ACTIVE_OPERATIVE</font> | Authorization: <font color="#888888">LEVEL_5_CLEARANCE</font></samp>
 
-<br><br>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/636b5181-3142-4e71-91a6-8e7b5b35819d" width="380" alt="HTB Platinum" style="border-radius: 10px; border: 1px solid #333;"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/1db54212-6e4c-4a9b-b4db-c2a5540fdd37" width="380" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <samp><font color="#888888"><i>Telemetry verification: Platinum Operator Status Confirmed</i></font></samp>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/636b5181-3142-4e71-91a6-8e7b5b35819d" width="350" alt="HTB Platinum"/>
-  <img src="https://github.com/user-attachments/assets/1db54212-6e4c-4a9b-b4db-c2a5540fdd37" width="350" alt="HTB Global Profile"/>
 </div>
 
 <div align="center">
