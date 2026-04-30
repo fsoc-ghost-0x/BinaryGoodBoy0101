@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <samp><font color="#888888"><i>Telemetry verification: Platinum Operator Status Confirmed</i></font></samp>
+      <samp><font color="#888888"><i>Telemetry verification: HOLO Operator Status Confirmed</i></font></samp>
     </td>
   </tr>
 </table>
