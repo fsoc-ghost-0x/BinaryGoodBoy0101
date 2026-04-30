@@ -26,7 +26,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/636b5181-3142-4e71-91a6-8e7b5b35819d" width="350" alt="HTB Platinum" style="border-radius: 10px; border: 1px solid #333;"/>
+      <img src="https://github.com/user-attachments/assets/d4224f37-43ca-4643-b4e6-d1bd08bde803" width="350" alt="HTB HOLO TIER" style="border-radius: 10px; border: 1px solid #333;"/>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/1db54212-6e4c-4a9b-b4db-c2a5540fdd37" width="350" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
