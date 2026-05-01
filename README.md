@@ -43,10 +43,17 @@
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/Role-Red_Team_Lead-red?style=for-the-badge&logo=target)
+![Role](https://img.shields.io/badge/Role-Red_Team_Lead-660000?style=for-the-badge&logo=target)
 ![Specialization](https://img.shields.io/badge/Focus-AI_Red_Teaming-black?style=for-the-badge&logo=openai)
 ![Environment](https://img.shields.io/badge/Ops-Mobile_Warfare-orange?style=for-the-badge&logo=android)
 ![Platform](https://img.shields.io/badge/Platform-Linux_Kernel-blue?style=for-the-badge&logo=linux)
+
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Threat_Actor-Advanced_Persistent_Threat_(APT)-660000?style=for-the-badge&logo=Arch-Linux&logoColor=black" alt="APT Verification"/>
+  <br>
+  <samp><b>[ TACTICAL TELEMETRY: <font color="#ff4500">APT CLASSIFICATION</font> OFFICIALLY VERIFIED & ACTIVE ]</b></samp>
+</div>
 
 </div>
 
