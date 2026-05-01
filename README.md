@@ -44,9 +44,9 @@
 <div align="center">
 
 ![Role](https://img.shields.io/badge/Role-Red_Team_Lead-660000?style=for-the-badge&logo=target)
-![Specialization](https://img.shields.io/badge/Focus-AI_Red_Teaming-black?style=for-the-badge&logo=openai)
-![Environment](https://img.shields.io/badge/Ops-Mobile_Warfare-orange?style=for-the-badge&logo=android)
-![Platform](https://img.shields.io/badge/Platform-Linux_Kernel-blue?style=for-the-badge&logo=linux)
+![Specialization](https://img.shields.io/badge/Focus-AI_Red_Teaming-080808?style=for-the-badge&logo=openai)
+![Environment](https://img.shields.io/badge/Ops-Mobile_Warfare-ff4500?style=for-the-badge&logo=android)
+![Platform](https://img.shields.io/badge/Platform-Linux_Kernel-00008b?style=for-the-badge&logo=linux)
 
 <br>
 <div align="center">
