@@ -86,7 +86,7 @@
   <samp>
   Hello, friend. 
   
-  Most people look for a door. I look for the gaps between the bricks. Ethical hacker by day, shadow architect by night. I am an offensive security researcher passionate about the physics of failure—breaking complex systems to understand how to rebuild them stronger.
+  Most people look for a door. I look for the gaps between the bricks. Ethical hacker by day, shadow architect by night.  I'm an Offensive Security Operator (Red Team), passionate about the physics of failure—breaking complex systems to understand how to rebuild them stronger.
   
   I operate in the intersection between raw binary and psychological subversion. Specialist in dismantling infrastructures, weaponizing logic flaws, and maintaining absolute invisibility. Whether I'm deploying a kernel exploit from a high-end workstation or pivoting through a network from a non-rooted mobile terminal, the objective remains the same: **Total Domain Dominance.**
   </samp>
