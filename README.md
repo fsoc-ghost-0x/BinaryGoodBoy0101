@@ -81,23 +81,23 @@
 ## <samp>▌ <u>0x01_INTERNAL_MONOLOGUE</u></samp>
 
 <details open>
-  <summary><code>Decrypting Operator Manifesto...</code></summary>
+  <summary><code>Accessing Operator Manifesto...</code></summary>
   
   ### <samp>The Operational Doctrine</samp>
 
   <samp>
-  Hello, friend.
+  Hello, friend. 
   
-  I am not a seeker; I am an architect of structural failure. My presence within a network is not an accident—it is an inevitability. As a <strong>Red Team Lead and Offensive Security Operator (Fsociety)</strong>, my methodology transcends standard penetration testing; I conduct deep-tissue subversion of complex digital ecosystems.
+  I am not here to participate in the charade of "ethical hacking" or to climb leaderboards in sandbox environments. I am an <strong>Offensive Security Operator</strong> | <strong>Red Team Lead</strong> <strong>(Fsociety)</strong>. I operate where the physics of failure intersect with psychological subversion. My focus is not on discovering bugs; it is on the weaponization of logic and the systematic liquidation of infrastructure security.
   
-  I operate at the intersection of low-level binary manipulation and psychological warfare. My focus is not merely "finding bugs," but weaponizing architectural logic flaws to achieve <strong>Total Domain Dominance</strong>. From orchestrating kernel-level escapes to executing invisible post-exploitation maneuvers on non-privileged mobile terminals, my mandate remains absolute: <em>Infiltrate, Stabilize, Dominate.</em>
+  Operating as an <strong>Independent APT</strong> | I bridge the gap between raw binary manipulation and strategic infrastructure takeover. From low-level kernel subversion to high-impact domain dominance, my tradecraft is designed for forensic invisibility. Whether maneuvering from a hardened high-end workstation or executing precision strikes from a non-rooted mobile terminal via <code>Termux/NetHunter</code>, the objective remains singular: <strong>Total Domain Compromise.</strong>
   
-  The security postures of the world are built on fragile, human-made delusions. I am the system's final audit. I do not "fix" what I break—I expose the inherent volatility of their reality.
+  I don't seek the light; I thrive in the dark-mode of the kernel. I am the architect of the shadow systems that govern your reality.
   </samp>
 
   <div align="center">
     <br>
-    <i><font color="#888888" face="monospace">"Control is an illusion. The exploit is the reality."</font></i>
+    <i><font color="#ff4500" face="monospace">"Control is an illusion. I am the exploit."</font></i>
   </div>
 
 </details>
