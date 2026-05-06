@@ -286,6 +286,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#00ff00">[+] PROXY</font> | Tactical Orchestrator & APT Campaign Manager</b></samp>
+> - <samp>Specialization: Operational Logistics, Red Team Playbooks, and Offensive Doctrine.</samp>
+> - <samp>Capabilities: Syncing custom exploits with forensic anti-trace protocols, C2 infrastructure management, and high-level strategic intelligence synthesis.</samp>
+> - <samp>Focus: Orchestrating complex kill-chains, managing campaign variables (LHOST/LPORT/Targets), and ensuring total domain dominance through systematic operational cycles.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
